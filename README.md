@@ -9,5 +9,5 @@
 # dVRK
 [SurRoL: RL Centered and dVRK Compatible Platform for Surgical Robot Learning](https://med-air.github.io/SurRoL)
 
-[LCSR]((http://jhu-lcsr.github.io/software/)http://jhu-lcsr.github.io/software)
+[LCSR](http://jhu-lcsr.github.io/software)
 
